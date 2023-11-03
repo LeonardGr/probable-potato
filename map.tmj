@@ -620,20 +620,20 @@
                 }, 
                 {
                  "class":"area",
-                 "height":29.8635503334416,
-                 "id":22,
-                 "name":"to-office",
+                 "height":25.3254812340688,
+                 "id":30,
+                 "name":"to-conference",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"Conf.json#from-main"
+                         "value":"conference.tmj#from-main"
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":34.026077530866,
-                 "x":0.260359230137155,
-                 "y":735.914789679925
+                 "width":51.3372593829656,
+                 "x":-0.178605959391756,
+                 "y":738.853476311857
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -853,7 +853,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":30,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
