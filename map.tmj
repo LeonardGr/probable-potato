@@ -566,23 +566,6 @@
                  "width":96,
                  "x":583.56830252815,
                  "y":3.18674314850223
-                }, 
-                {
-                 "class":"area",
-                 "height":32,
-                 "id":23,
-                 "name":"from-office",
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":32,
-                 "x":640,
-                 "y":128
                 }],
          "opacity":1,
          "type":"objectgroup",
