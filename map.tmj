@@ -642,20 +642,20 @@
                 }, 
                 {
                  "class":"area",
-                 "height":96,
+                 "height":31.6991204124962,
                  "id":22,
                  "name":"to-office",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-conference"
+                         "value":"conf.tmj"
                         }],
                  "rotation":0,
                  "visible":true,
                  "width":96,
-                 "x":583.56830252815,
-                 "y":3.18674314850223
+                 "x":1.1818012552567,
+                 "y":735.894566777921
                 }],
          "opacity":1,
          "type":"objectgroup",
